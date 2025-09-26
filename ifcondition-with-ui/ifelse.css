@@ -1,0 +1,65 @@
+body{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  padding-top:30px;
+}
+
+.container{
+
+        display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(155, 209, 235);
+    border-radius: 5px;
+    padding:10px;
+    box-shadow: 3px 3px 3px grey;
+    width:300px;
+}
+
+#output{
+  border-style: inset;
+border-radius: 5px;
+padding-right:30px ;
+padding-left:30px ;
+font-size: 15px;
+letter-spacing: 3px;
+font-weight: 800;
+color:rgb(0, 0, 0);
+font-family: "Funnel Display";
+  background-color: antiquewhite;
+  
+
+}
+.labelrani{
+    margin:10px;
+    letter-spacing: 2px;
+    font-size: 13px;
+font-weight: 800;
+    font-family: "Funnel Display";
+}
+#placeithere{
+
+    width:30%;
+    font-weight: 800;
+    font-size: 12px;
+    text-align: center;
+color:white;
+    padding:8px;
+    border-radius: 5px;
+    border-style: inset;
+     background-color: rgb(69, 94, 107);
+}
+#identify{
+
+    font-size: 13px;
+ font-weight: 700;
+    text-align: center;
+       background-color: rgb(252, 91, 28, 0.7);
+    border-style: solid;
+    border-radius: 5px;
+    margin:10px;
+    padding:10px;
+}
